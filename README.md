@@ -1,4 +1,11 @@
-# myapp
+## ACT 3 ANDROID ROGER
+![image](https://github.com/user-attachments/assets/67903b52-8c1e-4ac6-bd2b-a3b4f0cea3de)
+##
+![image](https://github.com/user-attachments/assets/b279cd36-5c08-42a0-b58c-f3dd5bb1a642)
+##
+![image](https://github.com/user-attachments/assets/541b5343-ee39-4f98-90f7-b4ce5dc19d7e)
+
+
 
 A new Flutter project.
 
